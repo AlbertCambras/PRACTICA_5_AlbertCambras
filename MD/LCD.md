@@ -74,4 +74,4 @@ En este ejercicio práctico no he tenido muchos problemas ya que anteriormente c
 El único problema que me he encontrado ha sido a la hora de incluir la librería ya que me la he tenido que descargar para poder usarla en el Visual Studio Code. Aunque buscando un poco de información al respecto ha sido bastante sencillo resolver el problema.
 
 ## IMAGEN DEL MONTAJE
-![MONTAJE](montaje.JPEG)
+![MONTAJE](montaje.jpeg)
